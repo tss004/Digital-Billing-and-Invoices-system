@@ -1,7 +1,7 @@
 	INDIAN INSTITUTE OF INFORMATION TECHNOLOGY NAGPUR (IIITN)
 			SEMINARY HILLS, NAGPUR
 -------------------------------------------------------------BILL-------------------------------------------------------------
-Date:- 25 / 7 / 2021 (Sunday)          						Time:- 21 : 44 : 16
+Date:- 25 / 3 / 2021           						Time:- 21 : 44 : 16
 Customer Name:- abc
 Customer Contact:- 12345
 Customer email:- ant@gmail.com
