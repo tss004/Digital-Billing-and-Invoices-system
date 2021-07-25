@@ -249,7 +249,7 @@ def bill_button_operation():
         file.close()
         server=sm.SMTP("smtp.gmail.com",587)
         server.starttls()
-        server.login("@gmail.com","password")
+        server.login("@gmail.com","@04")
         subject="Digital Invoice from my shop"
         body=ts
         message="Subject:{}\n\n{}".format(subject,body)
